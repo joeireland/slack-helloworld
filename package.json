@@ -37,7 +37,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "aws-serverless-express": "^3.3.8",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "body-parser": "^1.17.1",
     "express": "^4.15.2"
   }
